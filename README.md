@@ -7,4 +7,4 @@ This repository was created to store the markdown notebook and data sets created
 
 # Free and Open for all to use
 
-Ultimately the goal of this and other notebooks around the COVID-19 pandemic are meant to be used by all to halp provide predicitive models to determine best practices for public health.
+Ultimately the goal of this and other notebooks around the COVID-19 pandemic are meant to be used by all to halp provide predicitive models to determine best practices for public health.  Following the GPLv3 guidelines
